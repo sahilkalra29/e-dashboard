@@ -32,7 +32,7 @@ width: 300px;
 border: 1px solid skyblue;
 }
 
-.register{
+.register, .addProduct{
   margin-left: 30%;
 }
 
@@ -41,6 +41,11 @@ border: 1px solid skyblue;
   margin-top: 100px;
 }
 
+.homeLogo{
+  border-radius: 90%;
+  width: 50px;
+  float: left;
+}
 .appButton{
   margin: 25px;
   padding: 10px;
