@@ -46,6 +46,7 @@ border: 1px solid skyblue;
   width: 50px;
   float: left;
 }
+
 .appButton{
   margin: 25px;
   padding: 10px;
@@ -53,6 +54,30 @@ border: 1px solid skyblue;
   background-color: skyblue;
   border: 1px solid;
   cursor: pointer;
+}
+
+.productList{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.productList ul{
+  margin: 0px
+}
+
+.productList ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 10px;
+  width: 150px;
+}
+
+.search_product{
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid skyblue;
+  padding-left: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
